@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+YRUIWQY6QKTC
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2025-04-16
+Expiry Date
+2028-04-15
+Policy Term
+3 year(s)
+Annual Premium
+INR 64,549.70
+Sum Assured
+INR 2,000,000.00
+Nominee
+Daksha Ahuja
+Policyholder Details
+Full Name
+Harshil Bal
+Gender
+Male
+Date of Birth
+1959-10-17
+Email
+igara@example.com
+Phone
+04721264647
+Address
+19/95, Arora Marg, Haridwar 183982
+City / State / Postal Code
+Karimnagar, Himachal Pradesh - 799371
+Nominee Details
+The nominee for this policy is Daksha Ahuja with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

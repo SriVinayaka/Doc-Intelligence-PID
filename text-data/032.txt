@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+WIRE8QJNV8Z2
+Policy Type
+Personal Accident Insurance
+Issue Date
+2025-12-29
+Expiry Date
+2026-12-29
+Policy Term
+1 year(s)
+Annual Premium
+INR 16,943.74
+Sum Assured
+INR 300,000.00
+Nominee
+Warinder Raju
+Policyholder Details
+Full Name
+William More
+Gender
+Male
+Date of Birth
+1993-01-17
+Email
+jprabhu@example.org
+Phone
+8141247826
+Address
+H.No. 97, Manda Chowk, Ambala-239240
+City / State / Postal Code
+Korba, Uttarakhand - 506068
+Nominee Details
+The nominee for this policy is Warinder Raju with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

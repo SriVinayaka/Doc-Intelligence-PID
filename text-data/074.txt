@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+1Q7UWW5WFCPK
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2025-03-26
+Expiry Date
+2027-03-26
+Policy Term
+2 year(s)
+Annual Premium
+INR 38,989.22
+Sum Assured
+INR 750,000.00
+Nominee
+Dalbir Krish
+Policyholder Details
+Full Name
+Balvan Randhawa
+Gender
+Other
+Date of Birth
+1964-01-14
+Email
+amruta69@example.net
+Phone
++913736785082
+Address
+H.No. 745, Nazareth Nagar, Bijapur 713247
+City / State / Postal Code
+Bijapur, Tamil Nadu - 289023
+Nominee Details
+The nominee for this policy is Dalbir Krish with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+EZ7BH25LLO3R
+Policy Type
+Term Life Insurance
+Issue Date
+2026-01-08
+Expiry Date
+2028-01-08
+Policy Term
+2 year(s)
+Annual Premium
+INR 32,491.10
+Sum Assured
+INR 1,500,000.00
+Nominee
+Aarna Reddy
+Policyholder Details
+Full Name
+Libni Kunda
+Gender
+Other
+Date of Birth
+1974-07-01
+Email
+bhattishivansh@example.net
+Phone
+3613861207
+Address
+58/87, Bassi Chowk, Nellore 811288
+City / State / Postal Code
+Agra, Assam - 024819
+Nominee Details
+The nominee for this policy is Aarna Reddy with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

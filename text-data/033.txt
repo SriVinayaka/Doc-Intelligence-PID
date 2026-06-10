@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+U6N7HV3IZKY2
+Policy Type
+Personal Accident Insurance
+Issue Date
+2025-03-06
+Expiry Date
+2028-03-05
+Policy Term
+3 year(s)
+Annual Premium
+INR 12,246.20
+Sum Assured
+INR 200,000.00
+Nominee
+Omaja Grover
+Policyholder Details
+Full Name
+Eiravati Chaudhary
+Gender
+Male
+Date of Birth
+2005-02-26
+Email
+xchoudhry@example.com
+Phone
++914103697117
+Address
+047, Singh Street, Tadepalligudem 104328
+City / State / Postal Code
+Kottayam, Odisha - 246095
+Nominee Details
+The nominee for this policy is Omaja Grover with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+PKI7P5TB9487
+Policy Type
+Term Life Insurance
+Issue Date
+2026-04-25
+Expiry Date
+2027-04-25
+Policy Term
+1 year(s)
+Annual Premium
+INR 35,776.52
+Sum Assured
+INR 1,000,000.00
+Nominee
+Banjeet Balasubramanian
+Policyholder Details
+Full Name
+Madhavi Saini
+Gender
+Male
+Date of Birth
+1979-04-12
+Email
+chackopriya@example.org
+Phone
+02046537556
+Address
+467, Ramachandran Nagar, Machilipatnam-729806
+City / State / Postal Code
+Bidar, Himachal Pradesh - 708053
+Nominee Details
+The nominee for this policy is Banjeet Balasubramanian with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

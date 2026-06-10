@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+77VREN93IIUC
+Policy Type
+Health Insurance
+Issue Date
+2025-04-23
+Expiry Date
+2026-04-23
+Policy Term
+1 year(s)
+Annual Premium
+INR 62,535.49
+Sum Assured
+INR 1,000,000.00
+Nominee
+Arjun Hans
+Policyholder Details
+Full Name
+Aditya Choudhury
+Gender
+Female
+Date of Birth
+1963-07-04
+Email
+niharika92@example.org
+Phone
++912602563421
+Address
+05/98, Sani Street, Kalyan-Dombivli 505331
+City / State / Postal Code
+Agra, West Bengal - 337543
+Nominee Details
+The nominee for this policy is Arjun Hans with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

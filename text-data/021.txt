@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+GL58KXO9T7E8
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2026-01-07
+Expiry Date
+2027-01-07
+Policy Term
+1 year(s)
+Annual Premium
+INR 3,976.26
+Sum Assured
+INR 300,000.00
+Nominee
+Chakrika Merchant
+Policyholder Details
+Full Name
+Jagrati Prasad
+Gender
+Female
+Date of Birth
+1957-09-22
+Email
+dkumar@example.com
+Phone
+0748217594
+Address
+869, Garde Street, Vijayawada-937923
+City / State / Postal Code
+Chandrapur, Manipur - 367136
+Nominee Details
+The nominee for this policy is Chakrika Merchant with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

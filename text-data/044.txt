@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+Y4VA13U1GSPK
+Policy Type
+Family Floater Insurance
+Issue Date
+2025-09-16
+Expiry Date
+2026-09-16
+Policy Term
+1 year(s)
+Annual Premium
+INR 4,826.60
+Sum Assured
+INR 200,000.00
+Nominee
+Jagat Shroff
+Policyholder Details
+Full Name
+Krish Thaman
+Gender
+Female
+Date of Birth
+1978-02-22
+Email
+uvarma@example.org
+Phone
+01227530463
+Address
+152, Kurian Chowk, Kanpur-493296
+City / State / Postal Code
+Shimoga, Karnataka - 990453
+Nominee Details
+The nominee for this policy is Jagat Shroff with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

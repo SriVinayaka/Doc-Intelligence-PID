@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+3W5UZBIKCIDK
+Policy Type
+Term Life Insurance
+Issue Date
+2025-08-06
+Expiry Date
+2027-08-06
+Policy Term
+2 year(s)
+Annual Premium
+INR 8,251.63
+Sum Assured
+INR 200,000.00
+Nominee
+Vrinda Bahl
+Policyholder Details
+Full Name
+Janaki Kanda
+Gender
+Male
+Date of Birth
+1968-07-25
+Email
+yadavamara@example.net
+Phone
+01462704828
+Address
+H.No. 012, Sami Street, Kharagpur-978480
+City / State / Postal Code
+Bihar Sharif, Uttarakhand - 252880
+Nominee Details
+The nominee for this policy is Vrinda Bahl with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

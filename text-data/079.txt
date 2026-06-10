@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+GH8RIEC4D145
+Policy Type
+Personal Accident Insurance
+Issue Date
+2024-09-08
+Expiry Date
+2025-09-08
+Policy Term
+1 year(s)
+Annual Premium
+INR 6,243.54
+Sum Assured
+INR 200,000.00
+Nominee
+Adya Virk
+Policyholder Details
+Full Name
+Yamini Gara
+Gender
+Other
+Date of Birth
+1991-10-15
+Email
+urvi23@example.net
+Phone
+0461849926
+Address
+06/489, Bava Nagar, Jaipur 167618
+City / State / Postal Code
+Sasaram, Telangana - 411739
+Nominee Details
+The nominee for this policy is Adya Virk with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

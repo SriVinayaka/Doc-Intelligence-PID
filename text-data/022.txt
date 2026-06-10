@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+M2P9E6GBPS3Y
+Policy Type
+Personal Accident Insurance
+Issue Date
+2026-02-01
+Expiry Date
+2027-02-01
+Policy Term
+1 year(s)
+Annual Premium
+INR 8,723.66
+Sum Assured
+INR 200,000.00
+Nominee
+Jasmit Chana
+Policyholder Details
+Full Name
+Anvi Anand
+Gender
+Female
+Date of Birth
+1956-07-10
+Email
+karan14@example.com
+Phone
+6232858842
+Address
+H.No. 39, Kanda Path, Udupi 210470
+City / State / Postal Code
+Ongole, Uttar Pradesh - 517123
+Nominee Details
+The nominee for this policy is Jasmit Chana with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

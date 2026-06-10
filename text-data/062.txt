@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+GXAA2ILGB0S0
+Policy Type
+Family Floater Insurance
+Issue Date
+2024-12-03
+Expiry Date
+2025-12-03
+Policy Term
+1 year(s)
+Annual Premium
+INR 25,284.67
+Sum Assured
+INR 1,000,000.00
+Nominee
+Arunima Chacko
+Policyholder Details
+Full Name
+Avi Mitra
+Gender
+Male
+Date of Birth
+1987-08-29
+Email
+ipau@example.net
+Phone
++917109104300
+Address
+64/037, Chowdhury Marg, Panchkula-805526
+City / State / Postal Code
+Guna, Jharkhand - 661889
+Nominee Details
+The nominee for this policy is Arunima Chacko with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

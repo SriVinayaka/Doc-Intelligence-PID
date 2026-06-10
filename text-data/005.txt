@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+H75LXO6QJIUJ
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2025-05-25
+Expiry Date
+2026-05-25
+Policy Term
+1 year(s)
+Annual Premium
+INR 19,642.70
+Sum Assured
+INR 750,000.00
+Nominee
+Nitesh Raghavan
+Policyholder Details
+Full Name
+Urvashi Kibe
+Gender
+Male
+Date of Birth
+1969-05-08
+Email
+ranveeryadav@example.com
+Phone
++916247317810
+Address
+116, Sampath Path, Bhind-106513
+City / State / Postal Code
+Tiruchirappalli, Tripura - 267736
+Nominee Details
+The nominee for this policy is Nitesh Raghavan with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

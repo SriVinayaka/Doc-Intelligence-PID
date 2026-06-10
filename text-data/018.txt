@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+WJ0TPAC56T4U
+Policy Type
+Family Floater Insurance
+Issue Date
+2025-04-24
+Expiry Date
+2026-04-24
+Policy Term
+1 year(s)
+Annual Premium
+INR 26,434.66
+Sum Assured
+INR 500,000.00
+Nominee
+Vedhika Dara
+Policyholder Details
+Full Name
+Pratyush Sarin
+Gender
+Male
+Date of Birth
+1981-05-17
+Email
+uchakrabarti@example.com
+Phone
+01680876038
+Address
+56, Nagi Path, Nanded-674680
+City / State / Postal Code
+Panchkula, Rajasthan - 034824
+Nominee Details
+The nominee for this policy is Vedhika Dara with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

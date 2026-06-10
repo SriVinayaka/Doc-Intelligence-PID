@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+A11DPG8SBI4Q
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2024-08-13
+Expiry Date
+2025-08-13
+Policy Term
+1 year(s)
+Annual Premium
+INR 14,031.32
+Sum Assured
+INR 300,000.00
+Nominee
+Amara Balakrishnan
+Policyholder Details
+Full Name
+Dhriti Kumer
+Gender
+Female
+Date of Birth
+1976-03-24
+Email
+pallavi04@example.net
+Phone
+05198327315
+Address
+71/111, Char Marg, Bikaner 988516
+City / State / Postal Code
+Raipur, Tripura - 936899
+Nominee Details
+The nominee for this policy is Amara Balakrishnan with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

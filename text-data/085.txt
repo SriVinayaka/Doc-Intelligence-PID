@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+SIFPWIOXD9CS
+Policy Type
+Family Floater Insurance
+Issue Date
+2024-07-16
+Expiry Date
+2027-07-16
+Policy Term
+3 year(s)
+Annual Premium
+INR 12,871.07
+Sum Assured
+INR 1,000,000.00
+Nominee
+Banjeet Sangha
+Policyholder Details
+Full Name
+Naveen Mangat
+Gender
+Female
+Date of Birth
+1958-01-30
+Email
+aram@example.net
+Phone
+08004397359
+Address
+H.No. 438, Parmer Nagar, Kota 863840
+City / State / Postal Code
+Jammu, Jharkhand - 212281
+Nominee Details
+The nominee for this policy is Banjeet Sangha with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

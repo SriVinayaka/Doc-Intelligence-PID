@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+8F840982N2AT
+Policy Type
+Personal Accident Insurance
+Issue Date
+2024-08-27
+Expiry Date
+2025-08-27
+Policy Term
+1 year(s)
+Annual Premium
+INR 36,207.99
+Sum Assured
+INR 2,000,000.00
+Nominee
+Vedhika Deshpande
+Policyholder Details
+Full Name
+Dhriti Rama
+Gender
+Other
+Date of Birth
+1965-04-13
+Email
+kashvidhaliwal@example.net
+Phone
+06929662782
+Address
+H.No. 57, Gera, Srikakulam-251341
+City / State / Postal Code
+Unnao, Jharkhand - 257905
+Nominee Details
+The nominee for this policy is Vedhika Deshpande with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

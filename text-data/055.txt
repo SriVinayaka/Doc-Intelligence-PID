@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+K2VMWWYZX4W6
+Policy Type
+Personal Accident Insurance
+Issue Date
+2026-05-30
+Expiry Date
+2028-05-29
+Policy Term
+2 year(s)
+Annual Premium
+INR 119,840.46
+Sum Assured
+INR 2,000,000.00
+Nominee
+Devika Oza
+Policyholder Details
+Full Name
+Nandini Warrior
+Gender
+Other
+Date of Birth
+1959-02-15
+Email
+anneguneet@example.com
+Phone
++918889937567
+Address
+H.No. 89, Chopra Zila, Raichur-909656
+City / State / Postal Code
+Hapur, Andhra Pradesh - 146112
+Nominee Details
+The nominee for this policy is Devika Oza with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

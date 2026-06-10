@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+A3ZMF8MDD4V3
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2024-11-18
+Expiry Date
+2027-11-18
+Policy Term
+3 year(s)
+Annual Premium
+INR 27,449.91
+Sum Assured
+INR 500,000.00
+Nominee
+Yatin Yohannan
+Policyholder Details
+Full Name
+Fariq Kaul
+Gender
+Female
+Date of Birth
+1957-09-19
+Email
+rraghavan@example.net
+Phone
+8350305641
+Address
+H.No. 75, Prabhakar Street, Bhagalpur 192832
+City / State / Postal Code
+Tezpur, Tamil Nadu - 376724
+Nominee Details
+The nominee for this policy is Yatin Yohannan with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

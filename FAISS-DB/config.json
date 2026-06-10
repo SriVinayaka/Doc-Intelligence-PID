@@ -1,0 +1,10 @@
+{
+  "pdf_dir": "./pdf-policy-documents",
+  "text_dir": "./text-data",
+  "faiss_dir": "./FAISS-DB",
+  "qwen_model_path": "D:\\Qwen\\Qwen2.5-VL-7B-Instruct",
+  "embed_model": "D:\\sentence-transformers\\all-MiniLM-L6-v2",
+  "index_type": "ivf",
+  "total_documents": 100,
+  "total_chunks": 200
+}

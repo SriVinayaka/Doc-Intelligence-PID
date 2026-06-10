@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+ZYCWTIQJ7YHL
+Policy Type
+Term Life Insurance
+Issue Date
+2025-02-25
+Expiry Date
+2026-02-25
+Policy Term
+1 year(s)
+Annual Premium
+INR 14,255.79
+Sum Assured
+INR 300,000.00
+Nominee
+Yoshita Khanna
+Policyholder Details
+Full Name
+Wriddhish Bhardwaj
+Gender
+Female
+Date of Birth
+1961-01-08
+Email
+devikarastogi@example.net
+Phone
+5787133150
+Address
+H.No. 718, Dave Street, Jamalpur-489638
+City / State / Postal Code
+Giridih, Haryana - 103105
+Nominee Details
+The nominee for this policy is Yoshita Khanna with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

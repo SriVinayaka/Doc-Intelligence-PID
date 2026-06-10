@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+ZQY72WX7PTX6
+Policy Type
+Health Insurance
+Issue Date
+2025-08-25
+Expiry Date
+2026-08-25
+Policy Term
+1 year(s)
+Annual Premium
+INR 24,734.33
+Sum Assured
+INR 500,000.00
+Nominee
+Aahana Srinivas
+Policyholder Details
+Full Name
+David Devi
+Gender
+Male
+Date of Birth
+1980-07-08
+Email
+umang44@example.net
+Phone
++917575844198
+Address
+78/652, Walia Chowk, Bongaigaon-497334
+City / State / Postal Code
+Tenali, Uttarakhand - 240415
+Nominee Details
+The nominee for this policy is Aahana Srinivas with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

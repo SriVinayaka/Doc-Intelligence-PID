@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+AKPUXQPHR62G
+Policy Type
+Personal Accident Insurance
+Issue Date
+2026-05-20
+Expiry Date
+2027-05-20
+Policy Term
+1 year(s)
+Annual Premium
+INR 30,780.50
+Sum Assured
+INR 750,000.00
+Nominee
+Oviya Vora
+Policyholder Details
+Full Name
+Darsh Rao
+Gender
+Other
+Date of Birth
+1982-08-26
+Email
+virajnarasimhan@example.org
+Phone
+0422842102
+Address
+H.No. 713, Bail, Thoothukudi 293183
+City / State / Postal Code
+Secunderabad, Uttar Pradesh - 950240
+Nominee Details
+The nominee for this policy is Oviya Vora with relationship recorded as Spouse.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+26GYUP12SPFH
+Policy Type
+Personal Accident Insurance
+Issue Date
+2025-03-24
+Expiry Date
+2026-03-24
+Policy Term
+1 year(s)
+Annual Premium
+INR 31,588.31
+Sum Assured
+INR 500,000.00
+Nominee
+Advay Dugar
+Policyholder Details
+Full Name
+Anita Rajan
+Gender
+Other
+Date of Birth
+1964-07-27
+Email
+vasudhasura@example.org
+Phone
+07014508993
+Address
+21/202, Saha Zila, Jehanabad-296590
+City / State / Postal Code
+Kadapa, Mizoram - 637562
+Nominee Details
+The nominee for this policy is Advay Dugar with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

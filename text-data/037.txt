@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+IXNTM9TMQLIZ
+Policy Type
+Health Insurance
+Issue Date
+2026-05-13
+Expiry Date
+2027-05-13
+Policy Term
+1 year(s)
+Annual Premium
+INR 10,029.98
+Sum Assured
+INR 300,000.00
+Nominee
+Jeet Vasa
+Policyholder Details
+Full Name
+Idika Bhattacharyya
+Gender
+Male
+Date of Birth
+1995-12-15
+Email
+ndayal@example.org
+Phone
++914678669125
+Address
+258, Dara Ganj, Kolhapur 705895
+City / State / Postal Code
+Hospet, Manipur - 289226
+Nominee Details
+The nominee for this policy is Jeet Vasa with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

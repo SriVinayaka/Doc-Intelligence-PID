@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+GN1W1HT7PZE9
+Policy Type
+Term Life Insurance
+Issue Date
+2025-05-04
+Expiry Date
+2028-05-03
+Policy Term
+3 year(s)
+Annual Premium
+INR 25,426.59
+Sum Assured
+INR 750,000.00
+Nominee
+Panini Wali
+Policyholder Details
+Full Name
+Turvi Morar
+Gender
+Male
+Date of Birth
+1981-02-02
+Email
+nilima22@example.net
+Phone
+6567661825
+Address
+H.No. 03, Bora, Bhusawal 180170
+City / State / Postal Code
+Mangalore, Nagaland - 823004
+Nominee Details
+The nominee for this policy is Panini Wali with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

@@ -1,0 +1,46 @@
+
+#============================================================================================
+# Sample Commands
+#============================================================================================
+
+~/Qwen/Qwen2.5-VL-7B-Instruct/
+
+Doc-Intelligence-PID
+
+conda env create -n "Doc-Intelligence-PID" -f ./config/env.yml
+
+conda activate Doc-Intelligence-PID
+
+pip install faker pandas reportlab
+
+pip install pypdf faiss-cpu sentence-transformers tqdm
+
+pip install pypdf pymupdf faiss-cpu sentence-transformers transformers accelerate pillow
+
+sentence-transformers/all-MiniLM-L6-v2
+
+sentence-transformers/all-MiniLM-L6-v2
+
+pip install fastapi pydantic uvicorn
+
+pip install phonenumbers
+
+conda env export --no-builds > environment.yml
+
+conda env export --no-builds -n Doc-Intelligence-PID > environment.yml
+
+
+conda create -c conda-forge -n "nodejs24" nodejs=24
+
+npx create-react-app policy-ui
+cd policy-ui
+
+npm install @reduxjs/toolkit react-redux axios
+
+npm install
+
+npm start
+
+
+#============================================================================================
+

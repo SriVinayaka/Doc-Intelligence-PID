@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+8FSV871YZOYN
+Policy Type
+Health Insurance
+Issue Date
+2024-12-25
+Expiry Date
+2025-12-25
+Policy Term
+1 year(s)
+Annual Premium
+INR 14,090.04
+Sum Assured
+INR 300,000.00
+Nominee
+Rehaan Salvi
+Policyholder Details
+Full Name
+Arya Panchal
+Gender
+Other
+Date of Birth
+1975-05-09
+Email
+qgupta@example.org
+Phone
+6088356159
+Address
+H.No. 142, Lanka, Moradabad-556981
+City / State / Postal Code
+Amravati, Telangana - 846564
+Nominee Details
+The nominee for this policy is Rehaan Salvi with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

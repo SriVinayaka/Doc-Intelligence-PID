@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+0UKEYZ7SRCBP
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2026-01-31
+Expiry Date
+2027-01-31
+Policy Term
+1 year(s)
+Annual Premium
+INR 56,606.85
+Sum Assured
+INR 2,000,000.00
+Nominee
+Gautami Mane
+Policyholder Details
+Full Name
+Anita Devan
+Gender
+Male
+Date of Birth
+1966-02-16
+Email
+esoni@example.net
+Phone
++914540193802
+Address
+083, Ben Ganj, Haridwar 712082
+City / State / Postal Code
+Belgaum, Arunachal Pradesh - 724004
+Nominee Details
+The nominee for this policy is Gautami Mane with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

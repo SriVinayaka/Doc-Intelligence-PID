@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+Y8N1UTOXIE0R
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2025-03-22
+Expiry Date
+2028-03-21
+Policy Term
+3 year(s)
+Annual Premium
+INR 8,814.01
+Sum Assured
+INR 200,000.00
+Nominee
+Zaitra Ravi
+Policyholder Details
+Full Name
+William Gandhi
+Gender
+Female
+Date of Birth
+1980-12-12
+Email
+jhaverizarna@example.com
+Phone
+07700518449
+Address
+299, Sule Street, Thane-731453
+City / State / Postal Code
+Gandhinagar, Rajasthan - 591846
+Nominee Details
+The nominee for this policy is Zaitra Ravi with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

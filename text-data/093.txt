@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+64Z7W2SEHE2A
+Policy Type
+Family Floater Insurance
+Issue Date
+2025-08-22
+Expiry Date
+2026-08-22
+Policy Term
+1 year(s)
+Annual Premium
+INR 40,735.08
+Sum Assured
+INR 1,000,000.00
+Nominee
+Caleb Wagle
+Policyholder Details
+Full Name
+Vasatika Garde
+Gender
+Other
+Date of Birth
+1966-04-04
+Email
+ikbalbabu@example.org
+Phone
+8629127990
+Address
+29/29, Lalla Circle, Tiruvottiyur-991366
+City / State / Postal Code
+Tiruchirappalli, Meghalaya - 980686
+Nominee Details
+The nominee for this policy is Caleb Wagle with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

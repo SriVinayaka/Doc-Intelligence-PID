@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+CJWTL9TQVDZ4
+Policy Type
+Family Floater Insurance
+Issue Date
+2025-06-05
+Expiry Date
+2026-06-05
+Policy Term
+1 year(s)
+Annual Premium
+INR 22,119.88
+Sum Assured
+INR 500,000.00
+Nominee
+Jyoti Iyer
+Policyholder Details
+Full Name
+Jhalak Dugar
+Gender
+Male
+Date of Birth
+1973-06-07
+Email
+ukapur@example.org
+Phone
+05419518023
+Address
+13/80, Arora Nagar, Ranchi 562208
+City / State / Postal Code
+Rewa, Assam - 445187
+Nominee Details
+The nominee for this policy is Jyoti Iyer with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

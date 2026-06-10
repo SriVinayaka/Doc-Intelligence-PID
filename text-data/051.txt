@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+LYT8W5RTWIYK
+Policy Type
+Health Insurance
+Issue Date
+2026-01-31
+Expiry Date
+2028-01-31
+Policy Term
+2 year(s)
+Annual Premium
+INR 24,385.07
+Sum Assured
+INR 1,500,000.00
+Nominee
+Leena Dey
+Policyholder Details
+Full Name
+Azad Chander
+Gender
+Other
+Date of Birth
+1970-06-05
+Email
+siddharthsoman@example.com
+Phone
++911489025039
+Address
+87, Andra Nagar, Gwalior-659180
+City / State / Postal Code
+Sikar, Assam - 293968
+Nominee Details
+The nominee for this policy is Leena Dey with relationship recorded as Parent.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

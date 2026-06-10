@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+9GKDLKQZFPQ0
+Policy Type
+Senior Citizen Health Insurance
+Issue Date
+2026-03-27
+Expiry Date
+2028-03-26
+Policy Term
+2 year(s)
+Annual Premium
+INR 6,964.44
+Sum Assured
+INR 200,000.00
+Nominee
+Om Agrawal
+Policyholder Details
+Full Name
+Siddharth Sachar
+Gender
+Other
+Date of Birth
+1992-11-04
+Email
+guneet39@example.com
+Phone
+05231491357
+Address
+394, Contractor Ganj, Tezpur-878141
+City / State / Postal Code
+Ozhukarai, Punjab - 929955
+Nominee Details
+The nominee for this policy is Om Agrawal with relationship recorded as Child.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.

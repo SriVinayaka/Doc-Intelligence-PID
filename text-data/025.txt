@@ -1,0 +1,46 @@
+SYNTHETIC / SAMPLE
+Generated for testing/training only
+Page 1
+ Personal Insurance Policy Document
+Sample Secure Life Insurance Co.
+ SYNTHETIC / SAMPLE DOCUMENT - FOR TESTING ONLY
+Policy ID
+8IL3FB9W1Q5U
+Policy Type
+Family Floater Insurance
+Issue Date
+2024-07-21
+Expiry Date
+2027-07-21
+Policy Term
+3 year(s)
+Annual Premium
+INR 8,474.76
+Sum Assured
+INR 500,000.00
+Nominee
+Sudiksha Rastogi
+Policyholder Details
+Full Name
+Janaki Varghese
+Gender
+Other
+Date of Birth
+1961-02-09
+Email
+nagymanbir@example.org
+Phone
++914998569847
+Address
+39/08, Shanker Road, Ghaziabad 661771
+City / State / Postal Code
+Navi Mumbai, Uttar Pradesh - 836736
+Nominee Details
+The nominee for this policy is Sudiksha Rastogi with relationship recorded as Sibling.
+Sample Terms
+1. This is a system-generated synthetic insurance document created only for demonstration, development, QA, or
+training purposes.
+2. No real underwriting, claim processing, premium collection, or risk evaluation is associated with this file.
+3. All names, addresses, contact details, and policy numbers in this document are synthetic examples.
+Authorised Signatory (Sample)
+Digital issuance for internal mock/testing use only.
